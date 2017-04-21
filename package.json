@@ -1,0 +1,24 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "node demo",
+  "main": "index.js",
+  "dependencies": {
+    "connect": "^3.6.1",
+    "koa2": "^2.0.0-alpha.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxyling/studyNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxyling/studyNode/issues"
+  },
+  "homepage": "https://github.com/zxyling/studyNode#readme"
+}
